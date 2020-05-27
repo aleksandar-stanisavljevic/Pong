@@ -1,0 +1,9 @@
+﻿  Pong.cpp
+Pong.cpp(39): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+Pong.cpp(46): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+Pong.cpp(46): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+Pong.cpp(74): warning C4305: '*=' : truncation from 'double' to 'float'
+  Generating code
+  Finished generating code
+  Pong.vcxproj -> C:\Users\Aca\Desktop\Pong\Release\Pong.exe
